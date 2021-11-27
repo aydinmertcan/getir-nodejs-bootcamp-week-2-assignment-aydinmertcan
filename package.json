@@ -1,0 +1,13 @@
+{
+  "name": "getirassignment",
+  "version": "1.0.0",
+  "description": "Getir http module homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Mert Can Aydın",
+  "license": "ISC",
+  "dependencies": {}
+}
