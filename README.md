@@ -1,5 +1,6 @@
 # week-2-assignment
-
+### Makale linki aşağıdadır:
+https://medium.com/@ayd.mertcan/node-js-http-module-7d8f394eccb9
  Bir sonraki derse hazırlıklı gelebilmeniz adına sizlere ARGE ödevi vermeye karar verdik. Bu repo üzerinde klasörlerinizi/dosyalarınızı oluşturup çalışabilirsiniz. 
 
  ## Yapmanız gereken maddeler;
